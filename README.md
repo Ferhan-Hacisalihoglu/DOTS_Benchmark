@@ -10,7 +10,7 @@ This project is a benchmark application comparing Unity's DOTS (Data-Oriented Te
 The benchmark was conducted on a system with the following specifications:
 
 - GPU: RTX 3060M 6GB
-- CPU: Intel i7-12700M
+- CPU: Intel i7-12700H
 - RAM: 32GB
 
 ### Acknowledgments
